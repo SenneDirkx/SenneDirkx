@@ -5,9 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sennedirkx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sennedirkx" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sennedirkx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sennedirkx" height="30" width="40" /></a>
-<a href="mailto://dirkxsenneinc@gmail.com" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/725/725643.svg" alt="sennedirkx" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sennedirkx" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sennedirkx" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sennedirkx" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sennedirkx" height="30" width="40" /></a>
+<a href="mailto:dirkxsenneinc@gmail.com" target="_blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/725/725643.svg" alt="sennedirkx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Skills - Languages and tools:</h3>
