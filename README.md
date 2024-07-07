@@ -1,1 +1,8 @@
-<h1 align="center">Hi, I'm Senne Dirkx</h1>
+### Hello there 👋
+
+#### Backend Software Engineer by day ☼ and side-project builder by night ☾
+
+- ⚙️ I use daily: `.cs`, `.go`, `.ts`
+- 🙎‍♂️ Get in touch: [dirkxsenne.com](https://dirkxsenne.com)
+- 📝 My technical blog: [leastcycles.dev](https://leastcycles.dev)
+- 🏗 Currently building: [Cardplex.io](https://cardplex.io)
